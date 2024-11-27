@@ -1,0 +1,11 @@
+variation,process_step,percentage
+Control,start,100.00
+Control,step_1,78.26
+Control,step_2,67.22
+Control,step_3,61.12
+Control,confirm,55.31
+Test,start,100.00
+Test,step_1,85.33
+Test,step_2,73.94
+Test,step_3,66.96
+Test,confirm,65.61
