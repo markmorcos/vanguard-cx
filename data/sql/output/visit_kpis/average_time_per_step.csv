@@ -1,0 +1,9 @@
+variation,process_step,num_visits,avg_time_seconds
+Control,step_1,39957,51.16
+Control,step_2,36739,51.20
+Control,step_3,33843,100.49
+Control,confirm,28843,140.18
+Test,step_1,24443,46.73
+Test,step_2,23727,51.48
+Test,step_3,21505,102.46
+Test,confirm,18405,143.77
